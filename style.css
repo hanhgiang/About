@@ -242,7 +242,7 @@ body{
     margin-bottom: 20px;
     height: 30px;
     line-height: 30px;
-    font-family: 'Lato', sans-serif;
+        font-family: 'Lato', sans-serif;
 }
 #footer .top>div .line{
     width: 15px;
